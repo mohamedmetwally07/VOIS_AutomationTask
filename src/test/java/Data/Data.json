@@ -1,0 +1,14 @@
+[
+  {
+    "firstname": "Mohamed",
+    "lastname": "Metwally",
+    "password": "123456",
+    "address": "5th Cairo St.",
+    "city": "California",
+    "state": "California",
+    "postalCode": "32845",
+    "country": "United States",
+    "mobile": "0101234567",
+    "alias": "5th Cairo St."
+  }
+]
